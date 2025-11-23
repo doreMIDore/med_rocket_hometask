@@ -1,6 +1,6 @@
-# med_rocket_hometask_two
+# med_rocket_hometask
 
-A new Flutter project.
+Home task from MedRocket
 
 ## Getting Started
 
